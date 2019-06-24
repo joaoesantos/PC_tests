@@ -46,6 +46,7 @@
     <Compile Include="ex1.cs" />
     <Compile Include="ex2.cs" />
     <Compile Include="ex3.cs" />
+    <Compile Include="ex4.cs" />
     <Compile Include="MonitorEx.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TimeoutHolder.cs" />
